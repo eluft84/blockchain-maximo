@@ -6,7 +6,7 @@ This is targeted towards Maximo users that have assets that may be managed by th
 
 When the reader has completed this Code Pattern, they will understand how to leverage Maximo Automation Scripts to propagate changes to a blockchain ledger.
 
-<img src="https://i.imgur.com/lKeuzAn.png">
+<img src="https://developer.ibm.com/developer/patterns/tracking-maximo-managed-asset-transactions-across-a-business-network/images/architecture.png">
 <!-- ![Architecture](https://i.imgur.com/lKeuzAn.png) -->
 
 
